@@ -12,7 +12,7 @@ const App = () => {
   return (
 
     <div>
-      <h1>Hello, All Guys We are building a new startup!</h1>
+      <h1>Hello, All Guys We are building a new startup by dhaval!</h1>
       <p>Count: {count}</p>
       <button onClick={handleClick}>Increment</button>
     </div>
